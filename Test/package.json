@@ -1,0 +1,12 @@
+{
+  "name": "topic6-scm-cicd",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "lint": "echo 'Lint passed'",
+    "build": "echo 'Build success'"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
